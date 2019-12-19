@@ -1,0 +1,55 @@
+{
+    "name": "mashable.com",
+    "description": "Mashable is a global, multi-platform media and entertainment company.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20726-mashable-com.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mashable-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "mashable.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20726-mashable-com.jpg",
+            "humanURL": "https:\/\/mashable.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mashable-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mashable"
+        },
+        {
+            "type": "Email",
+            "url": "paul@mashable.com"
+        },
+        {
+            "type": "Curated Source",
+            "url": "http:\/\/mashable.com\/2016\/04\/04\/revolv-smart-home-shutdown\/#aErcmixl4PqQ"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/mashable.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mashable"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/mashable.com"
+        }
+    ]
+}
